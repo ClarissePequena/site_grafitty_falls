@@ -1,0 +1,248 @@
+html {
+    scroll-behavior: smooth;
+    font-family: "fredoka", sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 5%;
+}
+
+html {
+    background-image:
+        url(img2/fundo_quarto.jpeg)
+}
+
+#titulo {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(136, 88, 54);
+    padding-top: 20px;
+    color: rgb(0, 0, 0);
+    transition: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+}
+
+#introduçao {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    font-size: 20px;
+
+}
+
+#Contos {
+    font-size: 80px;
+    text-align: center;
+    height: 90px;
+    padding-top: 100px;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header {
+    width: 100%;
+}
+
+#blocos {
+    padding-left: 700px;
+
+
+}
+
+#mabel {
+    font-size: 20px;
+}
+
+#titulomabel {
+    padding-top: 200px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    background-color: rgb(0, 0, 0);
+text-align: center;
+
+}
+
+#titulodipper {
+    padding-top: 50px;
+    font-size: 40px;
+    background-color: rgb(136, 88, 54);
+}
+
+#dipper {
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#Logo {
+    padding-left: 250px;
+    align-items: center;
+}
+
+#pig {
+    padding-left: 600px;
+    padding-top: 0%;
+   padding-bottom: 50px;
+}
+
+#titulosus {
+    padding: top 50px;
+    font-size: 40px;
+    background-color: rgb(136, 88, 54);
+}
+
+#sus {
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+#blocos {
+    font-size: 30px;
+    padding-left: 250px;
+    color: aliceblue;
+
+}
+
+#suss {
+    padding-left: 700px;
+}
+
+footer {
+    background-color: black;
+}
+
+#bill {
+font-size: 20px;
+
+}
+
+#billphoto {
+    padding-right: 100px;
+
+}
+
+#titulobill {
+    font-size: 40px;
+    background-color: rgb(136, 88, 54);
+}
+
+#curiosidades {
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+}
+
+#nome {
+    font-size: 25px;
+    background-color: black;
+}
+#stan{
+font-size: 20px;
+
+}
+#wendy{
+    font-size: 20px;
+}
+#titulowendy{
+    background-color: rgb(136, 88, 54);
+    font-size: 40px;
+}
+#ford{
+    font-size: 20px;
+}
+#tituloford{
+ background-color: rgb(136, 88, 54);
+ font-size: 40px;
+
+}
+#cipher{
+font-size: 25px;
+padding-top: 20px;
+background-color: black;
+
+}
+#adiçao{
+    font-size: 25px;
+    padding-top: 20px;
+    background-color: black;
+}
+#musica{
+    font-size: 25px;
+    padding-top: 20px;
+    background-color: black;
+}
+#estatua{
+    font-size: 25px;
+    padding-top: 20px;
+    background-color: black;
+}
+#titulostan{
+    background-color: rgb(136, 88, 54);
+    font-size: 40px;
+}
+#gifdipper{
+    padding-top: 10px;
+    padding-left: 260px;
+}
+#gifbill{
+    padding-top: 10px;
+    padding-left: 250px;
+}
+#gifmabel{
+    padding-top: 10px;
+    padding-left: 270px;
+
+}
+#gifabertura{
+    padding-top: 10px;
+    padding-left: 250px;
+
+}
+#gifestatua{
+    padding-top: 10px;
+    padding-left: 230px;
+
+}
+#gifsoos{
+    padding-top: 10px;
+    padding-left: 260px;
+
+}
+#ramirez{
+    font-size: 25px;
+    background-color: black;
+}
+#um{
+font-size: 50px;
+text-align: center;
+}
+#dois{
+    font-size: 50px;
+    text-align: center;
+}
+#tres{
+    font-size: 50px;
+    text-align: center;
+}
+#quatro{
+    font-size: 50px;
+    text-align: center;
+}
+#cinco{
+    font-size: 50px;
+    text-align: center;
+}
+#seis{
+    font-size: 50px;
+    text-align: center;
+}
