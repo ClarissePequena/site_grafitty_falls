@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    font-family: "fredoka", sans-serif;
+    font-family: "Caveat", cursive;
     color: rgb(255, 255, 255);
     margin: 5%;
 }
@@ -23,7 +23,7 @@ html {
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 20px;
-    font-size: 20px;
+    font-size: 30px;
 
 }
 
@@ -61,7 +61,7 @@ header {
 }
 
 #mabel {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #titulomabel {
@@ -81,7 +81,7 @@ text-align: center;
 
 #dipper {
     padding-top: 50px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #Logo {
@@ -95,7 +95,7 @@ text-align: center;
    padding-bottom: 50px;
 }
 
-#titulosus {
+#titulosoos {
     padding: top 50px;
     font-size: 40px;
     background-color: rgb(136, 88, 54);
@@ -103,7 +103,7 @@ text-align: center;
 
 #sus {
     padding-top: 50px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #blocos {
@@ -122,7 +122,7 @@ footer {
 }
 
 #bill {
-font-size: 20px;
+font-size: 30px;
 
 }
 
@@ -137,28 +137,29 @@ font-size: 20px;
 }
 
 #curiosidades {
-    font-size: 50px;
+    font-size: 70px;
     text-align: center;
     background-color: black;
 }
 
 #nome {
     font-size: 25px;
-    background-color: black;
+    background-color: rgb(136, 88, 54);
+   
 }
 #stan{
-font-size: 20px;
+font-size: 30px;
 
 }
 #wendy{
-    font-size: 20px;
+    font-size: 30px;
 }
 #titulowendy{
     background-color: rgb(136, 88, 54);
     font-size: 40px;
 }
 #ford{
-    font-size: 20px;
+    font-size: 30px;
 }
 #tituloford{
  background-color: rgb(136, 88, 54);
@@ -168,23 +169,23 @@ font-size: 20px;
 #cipher{
 font-size: 25px;
 padding-top: 20px;
-background-color: black;
+background-color: rgb(136, 88, 54);
 
 }
 #adiçao{
     font-size: 25px;
     padding-top: 20px;
-    background-color: black;
+    background-color: rgb(136, 88, 54);
 }
 #musica{
     font-size: 25px;
     padding-top: 20px;
-    background-color: black;
+    background-color: rgb(136, 88, 54);
 }
 #estatua{
     font-size: 25px;
     padding-top: 20px;
-    background-color: black;
+    background-color: rgb(136, 88, 54);
 }
 #titulostan{
     background-color: rgb(136, 88, 54);
@@ -220,7 +221,7 @@ background-color: black;
 }
 #ramirez{
     font-size: 25px;
-    background-color: black;
+    background-color: rgb(136, 88, 54);
 }
 #um{
 font-size: 50px;
@@ -245,4 +246,11 @@ text-align: center;
 #seis{
     font-size: 50px;
     text-align: center;
+}
+#stanphoto{
+    padding-left: 700px;
+}
+#fordphoto{
+
+    padding-left: 700px;
 }
